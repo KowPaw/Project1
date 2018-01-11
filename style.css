@@ -1,0 +1,228 @@
+﻿body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-size: 60px;
+	font-weight: 100;
+}
+h2 {
+	font-size: 30px;
+	font-weight: 100;
+}
+
+.page {
+	transform: rotate(-90deg);
+	font-size: 10px;
+	white-space: nowrap;
+}
+.page p {
+	margin-top: -70px;
+}
+
+header > .row:first-of-type {
+	background-image: url(images/pJANKeD.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 600px;
+}
+header .page {
+	margin-top: 10%;
+	color: white;
+}
+header .up {
+	color: white;
+	margin-top: 150px;
+}
+header img {
+	height: 750px;
+	width: 100%;
+}
+header .down p {
+	color: grey;
+}
+header .col-offset-2 {
+	margin-top: -100px;
+}
+header .down .lorem p:first-of-type {
+	margin-top: 35px;
+}
+
+.gallery {
+	margin: 100px 0 60px;
+}
+.gallery [class*="col-"] {
+	min-height: 487px;
+	color: white;
+	padding: 10px 0 0 30px;
+}
+.part-1 {
+	background: #ffcccc;
+}
+.part-2 {
+	background: #666699;
+}
+.part-3 {
+	background: url(images/FYmTPMz.jpg);
+	background-size: cover;
+}
+.part-4 {
+	background: #9370bd;
+}
+.part-5 {
+	background: url(images/6bcYevC.jpg);
+	background-size: cover;
+}
+.part-6 {
+	background: #00cc7a;
+}
+.part-7 {
+	background: url(images/jI1QLSs.jpg);
+	background-size: cover;
+}
+.gallery p {
+	margin: 20px 50px 40px 0;
+}
+.gallery a {
+	text-decoration: none;
+	color: white;
+	font-weight: 900;
+}
+
+.details h2 {
+	margin-left: 10px;
+}
+.details p {
+	color: grey;	
+}
+
+.power {
+	background-image: url(images/AQu85gH.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	margin-top: 100px;
+}
+.power .col-6 {
+	color: white;
+	min-height: 700px;
+}
+.power h1 {
+	margin-top: 300px;
+	margin-bottom: 20px;
+}
+.power p {
+	margin-right: 160px;
+}
+.power a {
+	text-decoration: none;
+	color: white;
+	font-weight: 900;
+}
+
+.reasons {
+	background: #00cc7a;
+	color: white;
+	min-height: 400px;
+}
+.reasons .page {
+	margin-top: 8%;
+}
+.reasons h2 {
+	margin-left: 10px;
+	margin-top: 80px;
+}
+
+.legacy {
+	background: lightgrey;
+	min-height: 500px;
+}
+.legacy .page {
+	color: grey;
+	margin-top: 70px;
+}
+.legacy .col-3 {
+	margin-top: 80px;
+	padding: 40px;
+}
+.legacy .team {
+	background: white;
+	padding-bottom: 0;
+}
+.legacy .col-3 div:first-of-type {
+	font-size: 8px;
+	color: white;
+}
+.legacy h2 {
+	margin-bottom: 15px;
+}
+.legacy p {
+	color: grey;
+	margin-bottom: 30px;
+}
+.legacy i {
+	font-size: 20px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.legacy .title b {
+	padding: 5px 10px;
+	border-radius: 3px;
+}
+.legacy .go .title b {
+	background: #c0c0c0;
+}
+.legacy .team .title b {
+	background: #9370bd;
+}
+.legacy .buy {
+	font-size: 12px;
+	background: #00cc7a;
+	padding: 10px 25px;
+	border-radius: 5px;
+	cursor: pointer;
+	border-style: none;
+}
+
+footer {
+	background: #29293d;
+	min-height: 400px;
+	color: white;
+	padding-top: 60px;
+	line-height: 20px;
+}
+footer h5 {
+	font-weight: 900;
+}
+footer .col-offset-2 {
+	padding: 0 50px 0 10px;
+}
+footer .col-offset-2 p {
+	font-size: 13px;
+}
+footer .submit {
+	padding-left: 60px;
+	padding-right: 70px;
+	line-height: 15px;
+}
+footer .submit p {
+	font-size: 11px;
+	color: #c2c2d6;
+}
+footer input {
+	width: 80%;
+	height: 50px;
+	border-right: 0;
+}
+footer button {
+	width: 20%;
+	height: 50px;
+	border: 0;
+	padding-left: 0;
+	background: #00cc7a;
+	float: right;
+	color: white;
+	font-size: 30px;
+	cursor: pointer;
+}
