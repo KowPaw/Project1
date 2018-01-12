@@ -108,7 +108,8 @@ header .down .lorem p:first-of-type {
 	color: white;
 	min-height: 700px;
 }
-.power h1 {
+.power h2 {
+	font-size: 50px;
 	margin-top: 300px;
 	margin-bottom: 20px;
 }
